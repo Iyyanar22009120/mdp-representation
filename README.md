@@ -55,7 +55,8 @@ P = {
 
 
 ## OUTPUT:
-Write your Python output here
+![output re](https://github.com/user-attachments/assets/187fb345-2eee-470b-a33d-d23e40bb6a7a)
+
 
 ## RESULT:
 Thus, the given real-world problem of choosing the best study strategy is successfully represented in MDP form.
