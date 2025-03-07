@@ -33,7 +33,8 @@ If the student switches to Online Course (State 2), they receive a reward of 1 (
 There are no intermediate rewards for other actions or states.e
 
 ### Graphical Representation
-Write your answer here
+![graph of exp](https://github.com/user-attachments/assets/53b6d689-98f6-4159-b78d-a72e517cdca3)
+
 
 ## PYTHON REPRESENTATION:
 ```
